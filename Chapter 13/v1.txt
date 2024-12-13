@@ -1,0 +1,2 @@
+hello we are learning file handling Hello
+ How are you Hello
